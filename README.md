@@ -25,15 +25,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+http://g.recordit.co/XwnqBfjA3s.gif
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+gif created with recordit
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Version control with github proved to be a challenge because I accidentally deleted all my files twice and had to restart.
 
 ## License
 
